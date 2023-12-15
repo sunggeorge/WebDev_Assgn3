@@ -4,7 +4,7 @@
 // When do they need to be reset or updated?
 
 /*jshint esversion: 6 */
-var cost_per_day = 0;
+var cost_per_day = 35;
 var no_of_days = 0;
 const buttons = document.getElementsByClassName('blue-hover');
 const clearButton = document.getElementById('clear-button');
